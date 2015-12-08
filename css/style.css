@@ -64,6 +64,9 @@ position:relative;
   .container {
     width: 1170px;
   }
+@media tv and (min-width: 704px) and (orientation: landscape) {
+  width: 480px;
+}
 }
 
 /* HEADER */
