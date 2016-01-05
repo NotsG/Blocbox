@@ -58,4 +58,11 @@
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-weight:100;
  }
+ /*
  .dropit-inverse .dropit-submenu li a { text-align: left; font-size:12px; float:none; }
+
+ .dropit-inverse .dropit-open .dropit-submenu li:last child {
+    margin-top: 0px;
+ }
+*/
+

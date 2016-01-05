@@ -627,9 +627,9 @@ header .hero img {
  }
 
 /* Account Settings Menu */
-#settings-btn { margin-top:0px!important; }
+.settings-btn { margin-top:0px!important; }
 
-
+.dropit-inverse .dropit-submenu li a { text-align: left; font-size:12px; float:none; }
 
 
 
